@@ -7,6 +7,8 @@ The project consists of the following Python files:
 Minimax Algorithm (connect-4-with-AI_min_max.py): Implements the Minimax algorithm with alpha-beta pruning for the computer player to make intelligent moves.
 Board Class (connect-4-with-AI_board.py): Represents the game board and provides methods for placing discs, checking for winning conditions, and displaying the board.
 Main Class (connect-4-with-AI_main.py): Main class to run the Connect-4 game and interact with the player.
+
+
 Features
 Player vs. Computer: Play against the computer AI, which uses the Minimax algorithm to make strategic moves.
 Interactive Gameplay: Enjoy a user-friendly interface with prompts for player moves and visual representation of the game board.
